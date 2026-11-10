@@ -1,6 +1,6 @@
 <div align="center">
 
-  <video src="PEGA_AQUÍ_EL_ENLACE_DEL_VIDEO" width="400" controls autoplay loop muted></video>
+  <video src="Pantalla Entrada Twitch.mp4" width="400" controls autoplay loop muted></video>
 
   <h1>SoyPatacon</h1>
   <h3>Estudiante de Ingeniería · Python Enjoyer · Desarrollo web</h3>
