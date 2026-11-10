@@ -1,34 +1,18 @@
-name: Generate snake animation
+<div align="center">
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  <img src="mi-gif.gif" alt="Mi GIF" width="350" />
 
-  workflow_dispatch:
+  <h1>SoyPatacon</h1>
+  <h3>Estudiante de Ingeniería · Python Enjoyer · Desarrollo web</h3>
 
-  push:
-    branches:
-    - main
+  <a href="https://twitch.tv/TU_USUARIO">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@TU_USUARIO">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
-
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+</div>
