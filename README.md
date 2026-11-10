@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="Pantalla Entrada Twitch.mp4" alt="Mi GIF" width="350" />
+  <video src="PEGA_AQUÍ_EL_ENLACE_DEL_VIDEO" width="400" controls autoplay loop muted></video>
 
   <h1>SoyPatacon</h1>
   <h3>Estudiante de Ingeniería · Python Enjoyer · Desarrollo web</h3>
