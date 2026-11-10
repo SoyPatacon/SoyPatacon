@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="mi-gif.gif" alt="Mi GIF" width="350" />
+  <img src="Pantalla Entrada Twitch.mp4" alt="Mi GIF" width="350" />
 
   <h1>SoyPatacon</h1>
   <h3>Estudiante de Ingeniería · Python Enjoyer · Desarrollo web</h3>
