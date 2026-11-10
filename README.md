@@ -1,6 +1,6 @@
 <div align="center">
 
-  <video src="Pantalla Entrada Twitch.mp4" width="400" controls autoplay loop muted></video>
+  <video src="[Pantalla Entrada Twitch.mp4](https://github.com/SoyPatacon/SoyPatacon/blob/87ac6714014068efa4a66b8b5336a1bbecfa5ea8/Pantalla%20Entrada%20Twitch.mp4)" width="400" controls autoplay loop muted></video>
 
   <h1>SoyPatacon</h1>
   <h3>Estudiante de Ingeniería · Python Enjoyer · Desarrollo web</h3>
