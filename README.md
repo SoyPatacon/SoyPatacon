@@ -17,5 +17,5 @@
 </div>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,vscode,git,github,html,&perline=9" />
 </div>
