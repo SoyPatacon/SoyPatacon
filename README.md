@@ -17,9 +17,5 @@
 </div>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoyPatacon/SoyPatacon/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoyPatacon/SoyPatacon/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/SoyPatacon/SoyPatacon/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=9" />
 </div>
