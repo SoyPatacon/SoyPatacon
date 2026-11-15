@@ -18,5 +18,5 @@
 
 ### Skills And Tools
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,vscode,git,github,css,html,&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,js,vscode,git,github,css,html,&perline=9" />
 </div>
